@@ -1,14 +1,8 @@
 ﻿  main.c
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(62,26): warning C4047: '==': 'void *' differs in levels of indirection from 'int'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(75,37): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(84,34): warning C4022: 'ReadFile': pointer mismatch for actual parameter 2
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(87,14): warning C4022: 'free': pointer mismatch for actual parameter 1
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(92,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(92,13): warning C4024: 'decrypt': different types for formal and actual parameter 1
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(95,36): warning C4047: 'function': 'LPCSTR' differs in levels of indirection from 'char'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(95,29): warning C4024: 'CreateFileA': different types for formal and actual parameter 1
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(103,41): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(37,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(61,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
-C:\Users\Anton\source\repos\Caesar\Caesar\main.c(94,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [14]'
-  Caesar.vcxproj -> C:\Users\Anton\source\repos\Caesar\Debug\Caesar.exe
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(26,18): warning C4098: 'decrypt': 'void' function returning a value
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(82,37): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(100,42): warning C4133: 'function': incompatible types - from 'WCHAR [200]' to 'const char *'
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(101,23): warning C4133: 'function': incompatible types - from 'WCHAR [200]' to 'char *'
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(112,41): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
+C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Caesar\main.c(31,13): warning C4101: 'retval': unreferenced local variable
+  Caesar.vcxproj -> C:\Netanel\קורסים\שנה ד\מבוא לתכנות מערכות\תרגילי בית\Ex2\Caesar\Debug\Caesar.exe
