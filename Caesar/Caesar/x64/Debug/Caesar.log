@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(49,18): warning C4098: 'decrypt': 'void' function returning a value
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(126,37): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(144,42): warning C4133: 'function': incompatible types - from 'WCHAR [200]' to 'const char *'
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(145,23): warning C4133: 'function': incompatible types - from 'WCHAR [200]' to 'char *'
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(156,41): warning C4047: '==': 'HANDLE' differs in levels of indirection from 'const int'
+C:\Users\Anton\source\repos\ex2\Caesar\Caesar\main.c(144,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Caesar.vcxproj -> C:\Users\Anton\source\repos\ex2\Caesar\x64\Debug\Caesar.exe
